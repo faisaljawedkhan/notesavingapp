@@ -1,0 +1,23 @@
+.container-div ul {
+    list-style: none;
+    padding-left: 0rem;
+}
+
+.container-div ul li {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background: linear-gradient(269.34deg, #045252 0.38%, rgba(7, 150, 150, 0.93) 104.72%);
+    padding: 1rem;
+    color: #FFFFFF;
+    border-radius: 11px;
+    margin: 1rem 0;
+}
+
+.deleteBtn {
+    border: 2px solid #FFFFFF;
+    border-radius: 7px;
+    background: transparent;
+    color: #FFFFFF;
+    font-weight: 600;
+}
